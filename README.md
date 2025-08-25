@@ -1,1 +1,2 @@
 # FSDAIML
+WELCOME TO FSD session
